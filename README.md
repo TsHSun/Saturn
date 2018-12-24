@@ -1,11 +1,10 @@
 
 
+This project provides various of dynamic models which aim for controller simulation, and some typical control algorithms. 
 
+content 
 
-Project
+Reinforcement Learning
 
-1. model
-2. src
-3. doc
-4. img
+adaptive control
 
